@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem "jekyll"
+gem "jekyll"  # needed for the site
